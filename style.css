@@ -17,3 +17,8 @@ h1{
 p{
     font-size: 20px;
 }
+section{
+    background-color: rgb(86, 235, 235);
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
