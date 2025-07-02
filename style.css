@@ -3,3 +3,17 @@ body {
     color:antiquewhite; 
     font-family: "Caprasimo", serif;
 }
+header{
+    font-size: 25px;
+    border-bottom: dashed 4px rgb(228, 82, 42);
+    padding: 35px;
+    font-size: 35px;
+    color: rgb(255, 119, 0);
+
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
