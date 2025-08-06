@@ -17,7 +17,7 @@ h1{
 p{
     font-size: 20px;
 }
-section{
+.chamada{
     background-color: rgb(3, 49, 49);
     padding-top: 20px;
     padding-bottom: 10px;
@@ -36,7 +36,7 @@ section{
     overflow-x: auto;
     gap: 10px;
 }
-section{
+.listaVideos{
     padding-left: 10px;
     padding-right: 10px;
 }
