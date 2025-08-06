@@ -31,3 +31,12 @@ section{
 .img{
     height: 200px;
 }
+.Primeiras químicas{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+section{
+    padding-left: 10px;
+    padding-right: 10px;
+}
